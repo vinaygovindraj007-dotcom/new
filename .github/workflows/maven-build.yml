@@ -2,7 +2,7 @@ name: Java CI with Maven and Security Scans
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
 
